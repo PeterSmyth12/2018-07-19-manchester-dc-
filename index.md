@@ -333,7 +333,7 @@ Participants should bring their laptops and plan to participate actively. By the
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Introduction to Python</h3>
+    <h3>Introduction to R</h3>
     <ul>
       <li>Before we start</li>
       <li>Introduction to R</li>
